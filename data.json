@@ -1,0 +1,24 @@
+{
+  "basics":{
+    "name":"Pravallika",
+    "email":"jonnadula.pravallika@gmail.com",
+    "mobile":"+91-9441747421"
+  },
+  "Education":[
+    {
+      "Degree":"B.Tech",
+      "Institute":"PSCMR",
+      "Data":["2015-19","60%"]
+    },
+    {
+      "Degree":"Intermediate",
+      "Institute":"Sri Chaintanya Juniour College",
+      "Data":["2013-15","78%"]
+    },
+    {
+      "Degree":"S.S.C",
+      "Institute":"Nagarjuna High School",
+      "Data":["2012-13","8.2"]
+    }
+  ]
+}
