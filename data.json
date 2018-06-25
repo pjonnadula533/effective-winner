@@ -4,6 +4,9 @@
     "email":"jonnadula.pravallika@gmail.com",
     "mobile":"+91-9441747421"
   },
+  "career":{
+  "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+},
   "Education":[
     {
       "Degree":"B.Tech",
@@ -12,7 +15,7 @@
     },
     {
       "Degree":"Intermediate",
-      "Institute":"Sri Chaintanya Juniour College",
+      "Institute":"Sri Chaintanya Junior College",
       "Data":["2013-15","78%"]
     },
     {
@@ -20,5 +23,31 @@
       "Institute":"Nagarjuna High School",
       "Data":["2012-13","8.2"]
     }
-  ]
+  ],
+  "achievements":[
+    {
+      "name":"awarded as <b>consolation<sup></sup>Prize</b> in <q> spoken tutorials </q>"
+    },
+    {
+    "name":"got <strong>1<sup>st</sup>Prize</strong> for <q> poster presentation </q>"
+}
+],
+"skills":[
+  {
+    "name":"Programming Languages",
+    "data":["C++","Java","C"]
+  },
+  {
+    "name":"Data Bases",
+    "data":["Oracle","MySQL"]
+  },
+  {
+    "name":"Web Technologies",
+    "data":["CSS","Javascript"]
+  },
+{
+  "name":"Libraries and Frameworks",
+  "data":["codeIgniter","jQuery"]
+}
+]
 }
